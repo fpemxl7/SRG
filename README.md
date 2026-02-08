@@ -1,5 +1,5 @@
 # Safety Release Gate (SRG)
-### Statistically Guaranteed Safety Regression Testing for LLM Red Teaming
+### Safety Regression Red Teaming via Safety Release Gate for Large Language Models
 
 Safety Release Gate (SRG) is a **statistical release validation protocol**
 for detecting **safety regression** between two model versions.
