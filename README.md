@@ -7,7 +7,7 @@ Rather than relying on average safety scores, SRG focuses on **paired behavioral
 and provides **finite-sample Type I error control** via an exact McNemar test.
 
 This repository contains a **reference implementation** of the SRG protocol
-used in our ICML submission *“Safety Regression Red Teaming via Safety Release Gate”*.
+used in *“Safety Regression Red Teaming via Safety Release Gate for Large Language Models”*.
 
 ---
 
